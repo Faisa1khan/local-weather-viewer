@@ -1,0 +1,40 @@
+body{
+  color:#fff;
+  background-color:#1A1D21;
+  text-align:center;
+   font-family: 'Source Sans Pro', sans-serif;
+  
+  
+  
+ 
+}
+h1{
+  font-size:3em;
+}
+
+#temp{
+ 
+  cursor:pointer;
+}
+
+footer{
+  padding-top:10px;
+}
+a{
+  text-decoration:none;
+  color:#fff;
+}
+h2{
+  display:inline-flex;
+  
+  
+}
+canvas{
+  position:relative;
+  top:15px;
+   
+}
+
+#location,footer{
+  margin-left:-20px;
+}
